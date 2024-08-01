@@ -8,3 +8,9 @@ payload:
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,migu.cn
   - DOMAIN-SUFFIX,miguvideo.com
+  - DOMAIN-SUFFIX,v.miguvideo.com
+  - DOMAIN-SUFFIX,ggic03.miguvideo.com
+  - DoMAIN-SUFFIX,chat.miguvideo.com
+  - DoMAIN-SUFFIX,vmesh.miguvideo.com
+  - DoMAIN-SUFFIX,clog.miguvideo.com
+  - DoMAIN-SUFFIX,recommend-dy.miguvideo.com
